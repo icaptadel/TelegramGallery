@@ -1,4 +1,5 @@
 # TelegramGallery
+
 中文 | [English](https://github.com/TangXiaoLv/TelegramGallery)
 
 快速，高效，低耗相册选择器，抽取自[Telegram](https://github.com/DrKLO/Telegram)，支持单选，多选，预览，缩放，滑动取消预览，QQ选择特性
@@ -9,7 +10,7 @@
 ### Gradle
 ```
 dependencies {
-    compile 'com.library.tangxiaolv:telegramgallery:1.0.4'
+    compile 'com.library.tangxiaolv:telegramgallery:1.0.5'
 }
 ```
 
